@@ -9,6 +9,7 @@ public class test_chromedriver {
         System.setProperty("webdriver.chrome.driver", "C:\\rd-automation-lesson\\src\\main\\java\\drivers\\chromedriver.exe");
 
         // WebDriver nesnesini oluşturun
+        ///sdgffd
         WebDriver driver = new ChromeDriver();
 
         // WebDriver ile istediğiniz işlemleri gerçekleştirin
